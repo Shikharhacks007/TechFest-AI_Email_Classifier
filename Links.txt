@@ -1,3 +1,0 @@
-https://medium.com/@djajafer/multi-class-text-classification-with-keras-and-lstm-4c5525bef592
-https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
-https://www.kaggle.com/jensenbaxter/10dataset-text-document-classification
